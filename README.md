@@ -1,1 +1,1 @@
-# Trendhub-
+// Placeholder for README.md
